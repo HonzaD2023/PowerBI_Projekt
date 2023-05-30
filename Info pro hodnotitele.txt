@@ -1,0 +1,15 @@
+ZDROJ DAT
+
+Indexy spotřebitelských cen
+https://www.czso.cz/csu/czso/indexy-spotrebitelskych-cen
+
+
+OTÁZKY, KTERÉ MĚ NAPADALY A NEUMĚL JSEM SI PORADIT - BUDU RÁD ZA FEEDBACK, PŘÍPADNĚ ODKAZ NA NĚJAKÝ WEB/TUTORIÁL, JAK DANOU SITUACI ŘEŠIT
+
+Jak nastavit ve sloupcovém grafu, aby se zobrazovaly hodnoty UVNITŘ sloupce?
+
+Na záložce "inflační matice" se mi nedaří roztáhnout tabulku zleva až úplně doprava k okraji - tzn. tak aby tam nebyl bílý prostor v pravo.
+
+Jak jednoduše vybarvit jednu maximální a jednu minimální hodnotu v matici? Případně TOP 10 zeleně, nejhorších 10 červeně atp.?
+
+Funkce kapátko pro identifikaci barvy jako na jiném vizuálu asi neexistuje?
